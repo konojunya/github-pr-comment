@@ -1,2 +1,5 @@
 # github-pr-comment
-[CODE SANDBOX] githubのPRにcommentをつけてみる
+
+[CODE SANDBOX] github の PR に comment をつけてみる
+
+foo!
